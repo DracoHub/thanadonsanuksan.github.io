@@ -156,7 +156,7 @@ section p {
     padding-top: 26px;
     margin: 10px;
     width: 726px;
-    height: 526px;
+    height: 626px;
     border-radius: 26px;
 }
 
@@ -323,6 +323,13 @@ footer {
 }
 
 .column-exp5 {
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    animation: fadeIn 0.53s ease-in-out forwards;
+}
+
+.column-exp6 {
     align-items: center;
     justify-content: center;
     opacity: 0;
