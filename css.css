@@ -457,7 +457,8 @@ footer {
     .img-experience11,
     .img-experience-cer,
     .img-experience-finale {
-        width: 100%;
+        width: auto;
+        height: auto;
         border-radius: 0;
 
     }
