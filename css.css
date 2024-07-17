@@ -501,7 +501,19 @@ footer {
         margin-top: 5px;
     }
 
-    .columnpj {
+    .columnpj1 {
+        margin-top: 5px;
+    }
+
+    .columnpj2 {
         margin-top: 25px;
+    }
+
+    .columnpj3 {
+        margin-top: 52px;
+    }
+
+    .columnpj4 {
+        margin-top: 52px;
     }
 }
