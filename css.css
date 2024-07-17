@@ -234,15 +234,21 @@ footer {
 }
 
 .img-experience11 {
-    width: 100%;
+    width: auto;
     height: 100%;
-    max-width: 526px;
     border-radius: 10%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     display: inline-block;
 }
 
 .img-experience-cer {
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+.img-pj-1 {
     width: 100%;
     height: 100%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -461,11 +467,22 @@ footer {
 
     .img-style,
     .img-experience,
-    .img-experience11,
     .img-experience-cer,
     .img-experience-finale,
     .img-pj-final {
         width: 100%;
+        border-radius: 0;
+    }
+
+    .img-experience11 {
+        width: 100%;
+        height: auto;
+        border-radius: 0;
+    }
+
+    .img-pj-1 {
+        width: 100%;
+        height: auto;
         border-radius: 0;
     }
 
