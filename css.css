@@ -255,6 +255,12 @@ footer {
     display: inline-block;
 }
 
+.img-pj-final {
+    width: 56%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
 .hsaa {
     font-family: 'Helvetica', sans-serif;
     text-align: left;
@@ -456,12 +462,9 @@ footer {
     .img-style,
     .img-experience,
     .img-experience11,
-    .img-experience-cer {
-        width: 100%;
-        border-radius: 0;
-    }
-
-    .img-experience-finale {
+    .img-experience-cer,
+    .img-experience-finale,
+    .img-pj-final {
         width: 100%;
         border-radius: 0;
     }
